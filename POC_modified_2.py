@@ -2,8 +2,6 @@
 GSoC 2026 HumanAI - MVP Proof of Concept
 Ayush Basu | BS Statistics & Mathematics, Università di Bologna
 
-This script demonstrates the core components of the proposed
-any-to-any multimodal dance generation system using synthetic data.
 """
 
 import numpy as np
