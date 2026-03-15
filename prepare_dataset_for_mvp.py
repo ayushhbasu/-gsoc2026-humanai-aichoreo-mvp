@@ -2,8 +2,6 @@
 Dataset Preparation for GSoC 2026 HumanAI MVP
 Ayush Basu | Università di Bologna
 
-This script creates a realistic dance dataset that matches the exact
-requirements of your MVP code: (50 sequences, 16 frames, 25 joints, 3D)
 """
 
 import numpy as np
